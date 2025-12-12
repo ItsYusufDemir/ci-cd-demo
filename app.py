@@ -8,4 +8,5 @@ if __name__ == "__main__":
     while True:
         # Simulate a running server
         print("Service is running...")
+        
         time.sleep(60)
